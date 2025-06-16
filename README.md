@@ -155,7 +155,6 @@ To retrain:
 python model.py
 ```
 
-> *(Contains training loop at the bottom)*
 
 The training script saves the `.pth` model file inside `checkpoints/`.
 
