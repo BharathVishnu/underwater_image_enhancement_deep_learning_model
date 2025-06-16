@@ -1,0 +1,40 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 783-817-028
+INFO:root:test1.jpg processed in 0.3s -> output/enhanced_test1.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:12:01] "POST /enhance HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\bhara\\Downloads\\Placements\\udayip_resume\\rework_projects\\underwater_image_enhancement_deep_learning_model\\batch_upload.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 783-817-028
+INFO:werkzeug: * Detected change in 'C:\\Users\\bhara\\Downloads\\Placements\\udayip_resume\\rework_projects\\underwater_image_enhancement_deep_learning_model\\batch_upload.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\bhara\\Downloads\\Placements\\udayip_resume\\rework_projects\\underwater_image_enhancement_deep_learning_model\\batch_upload.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\bhara\\Downloads\\Placements\\udayip_resume\\rework_projects\\underwater_image_enhancement_deep_learning_model\\batch_upload.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 783-817-028
+INFO:root:test1.jpg processed in 0.32s -> output/enhanced_test1.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:17] "POST /enhance HTTP/1.1" 200 -
+INFO:root:test10.jpg processed in 0.17s -> output/enhanced_test10.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:19] "POST /enhance HTTP/1.1" 200 -
+INFO:root:test2.jpg processed in 0.17s -> output/enhanced_test2.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:21] "POST /enhance HTTP/1.1" 200 -
+INFO:root:test3.jpg processed in 0.17s -> output/enhanced_test3.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:24] "POST /enhance HTTP/1.1" 200 -
+INFO:root:test4.jpg processed in 0.16s -> output/enhanced_test4.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:26] "POST /enhance HTTP/1.1" 200 -
+INFO:root:test5.jpg processed in 0.18s -> output/enhanced_test5.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:28] "POST /enhance HTTP/1.1" 200 -
+INFO:root:test6.jpg processed in 0.15s -> output/enhanced_test6.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:30] "POST /enhance HTTP/1.1" 200 -
+INFO:root:test7.jpg processed in 0.16s -> output/enhanced_test7.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:32] "POST /enhance HTTP/1.1" 200 -
+INFO:root:test8.jpg processed in 0.15s -> output/enhanced_test8.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:35] "POST /enhance HTTP/1.1" 200 -
+INFO:root:test9.jpg processed in 0.17s -> output/enhanced_test9.jpg
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2025 00:15:37] "POST /enhance HTTP/1.1" 200 -
